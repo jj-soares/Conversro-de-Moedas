@@ -1,21 +1,46 @@
 <h1 align="center">
-   Conversor de moedas
+  💻 Conversor de Moedas 💻
 </h1>
 
 <h4 align="center">
-  Site que efetua a conversão de moeda com atualização constante. 
+  💻Conversor de Moedas que faz a atualização dos valores das moedas automaricamente!!! 💻
 </h4>
 
-## :rocket: Tecnologias
-
-Nesse projeto foi usado as seguintes tecnologias 
-
--  [HTML] Para montar a pagina de forma em que seja facil o acesso 
--  [CSS] Para fazer a estilizações e deixar a pagina intuitiva 
--  [JavaScript] JavaScript foi usada de maneira em que possa ser calculado os valores de moedas e atualizados automaticamente.
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/82819804/155228259-157b984e-9735-4962-8ec7-a56bc603ded0.gif)
+<p align="center">   
+   <a href="#sobre">Sobre</a> .
+   <a href="#roadmap">Roadmap</a> .
+   <a href="#tecnologias">Tecnologias</a> .
+   <a href="#fotos">Fotos</a> . 
+   <a href="#autor">Autor</a>
+ </p>
 
 
-Feito por João Soares :wave: [Entre em contato!](https://www.linkedin.com/in/joao-soares-339642215/)
+   
+ # Sobre 
+     
+     
+   <p> Projeto para conversão de moedas, aonde que pode ser utilizado a qualquer momento pois atualiza as moedas automaticamente!!</p>
+   
+   
+   
+   
+   
+   # Roadmap 
+   
+   <p> Esse foi meu primeiro projeto com o Java Script e foi de extrema importancia pois me colocou a prova em muita coisa! </p>
+   
+   
+   # Tecnologias 
+   <h3 align="center"> Tecnolgias usadas no projeto </h3>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>Java Script</p>
+   
+   
+   # Fotos 
+   
+   <img src="">
+   
+   # Autor 
+   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/joao-soares-339642215/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
 
