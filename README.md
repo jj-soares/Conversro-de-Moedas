@@ -41,6 +41,10 @@
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.javascript.com/)
 
+<br>
+<br>
+
+
    
 ## Author 🙋🏾‍♂️
    <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
